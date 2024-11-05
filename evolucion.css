@@ -1,0 +1,35 @@
+body{
+        
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #646364;
+    
+      }
+    
+ article{
+        background: #ab98af;
+        border-radius:40px;;
+        margin: auto; 
+        max-width:80%;
+}
+
+
+/*NAV*/
+
+.navbar a{
+    display: block;
+    padding: 33px 28px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.navbar a:hover{
+    background: #b465c4;
+}
+    /*TAMAÑO DE LA IMAGEN*/
+#hola{
+    width: 900px;
+    height:600px;
+}
+

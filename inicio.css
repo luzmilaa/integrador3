@@ -1,0 +1,45 @@
+body{
+    
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background: #aa9bad;
+      }
+    
+ 
+    article{
+        background: #6b636d;
+        border-radius:40px;;
+        margin: auto; 
+        max-width:80%;
+
+}
+
+/*nav*/
+.navbar a:hover {
+    background: #dd8ee7;
+}
+.navbar a{
+    display: block;
+    padding: 33px 28px;
+    color: #f3e6e6;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+/*BARRA DE NAVEGACION*/
+#color{
+    background: pink;
+}
+
+h1{
+    color: rgb(22, 22, 22);
+}
+p{
+    color: rgb(15, 15, 15);
+}
+/*CARROUSEL*/
+
+#calesita{
+    height:500px;
+    width:100%;}
+   

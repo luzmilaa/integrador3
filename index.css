@@ -1,0 +1,78 @@
+/*alinie el titulo*/
+h1{
+    color:black;
+    text-align: center;
+
+}
+
+/*modifique todo el body*/
+body{
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+background-color: #363535;
+
+}
+/*le di color al subtitulo*/
+h2{
+    color:black;
+    text-align: center;
+}
+
+/*nav*/
+.navbar a{
+    display: block;
+    padding: 33px 28px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+/*nav*/
+.navbar a:hover{
+    background: #6699ad;
+}
+
+/*modifique el texto*/
+p{
+    margin-bottom: 40px;
+    font-size: 18px;
+    color: rgb(19, 17, 17);
+}
+/*le di color al subtitulo*/
+h5{
+    color: black;
+}
+/*le di color al subtitulo*/
+h3{
+    color: #fff;
+
+}
+/*body*/
+body a{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+footer{
+    height:150px;
+    background: #363535
+
+}
+/*color de texto*/
+#HOLA{
+    color: #fff;
+}
+/*tamaño de imagen*/
+#tamaño{
+    width:300px;
+    height:250px;
+}
+/*modifique el color de letra*/
+#luzmila{
+    color:azure;
+}
+/*modifique el color del titulo */
+#luz{
+    color:beige;
+}
